@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="375" height="250" src="src/logo.png">
+  <img src="src/logo.png" width="532" height="379" class="center">
   <h1>Vegan Cheathseet!</h1>
 
   <h4>
@@ -403,3 +403,4 @@
 ## 🏆 Credits:
 - [Authors of the Vegan Cheatsheet](https://vegancheatsheet.org)
 - [YouTube/Instagram Icons - Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect)
+- [Logo - mozala84](https://www.freelancer.com/u/mozala84)
