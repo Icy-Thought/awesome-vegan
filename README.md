@@ -403,4 +403,4 @@
 ## 🏆 Credits:
 - [Authors of the Vegan Cheatsheet](https://vegancheatsheet.org)
 - [YouTube/Instagram Icons - Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect)
-- [Logo - Freepik](https://www.freepik.com/free-vector/fun-pack-watercolor-farm-animals_1233223.html)
+- [Logo - Freepik](https://www.freepik.com/free-vector/fun-pack-watercolor-farm-animals_1233223.htm)
