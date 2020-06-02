@@ -253,7 +253,7 @@
 - [British Dietetic Association (Great Britain)](https://www.bda.uk.com/news/view?id=179)
 - [Dietitians of Canada](https://www.dietitians.ca/Downloads/Factsheets/Guidlines-for-Vegans.aspx)
 - [The American Journal of Clinical Nutrition](https://www.riseofthevegan.com/blog/plant-protein-best-for-building-muscle)
-- [Mayo Clinic & ScienceDaily](https://www.sciencedaily.com/releases/2016/05/160505140057.html)
+- [Mayo Clinic & ScienceDaily](https://www.sciencedaily.com/releases/2016/05/160505140057.htm)
 
 ## 🐎 Awesome Activists to Follow
 <img src="src/instagram.svg" alt="Created by: Pixel Perfect" width="24"/> = Instagram (Clickable), <img src="src/youtube.svg" alt="Created by: Pixel Perfect" width="28"/> = YouTube (Clickable)
@@ -392,7 +392,7 @@
 ## 🦔 Published studies on the health of Soy
 - [Clinical studies show no effects of soy protein or isoflavones on reproductive hormones in men](https://www.ncbi.nlm.nih.gov/pubmed/19524224)
 - [Physicians Committee for Responsible Medicine](https://www.pcrm.org/good-nutrition/nutrition-information/soy-and-health)
-- [U.S. Department of Health & Human Services](https://nccih.nih.gov/health/soy/ataglance.html)
+- [U.S. Department of Health & Human Services](https://nccih.nih.gov/health/soy/ataglance.htm)
 
 ## 🦇 Discord Communities
 - [/r/Vegan Community Discord](https://discordapp.com/invite/R3Uh2HS)
