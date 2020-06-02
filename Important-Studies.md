@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/logo.png" width="500" height="500" class="center">
+  <img src="src/logo.png" width="450" height="450" class="center">
   <h1>Vegan Cheathseet!</h1>
 
   <h4>
