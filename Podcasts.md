@@ -5,13 +5,13 @@
   <h4>
     <a href="README.md">Vegan Cheatsheet</a>
     <span> | </span>
-    <a href="">Important Studies</a>
+    <a href="Important-Studies.md">Important Studies</a>
     <span> | </span>
-    <a href="">Books</a>
+    <a href="Books.md">Books</a>
     <span> | </span>
-    <a href="">Podcast</a>
+    <a href="Podcasts.md">Podcast</a>
     <span> | </span>
-    <a href="">FAQ</a>
+    <a href="FAQ.md">FAQ</a>
   </h4>
 </div>
 
